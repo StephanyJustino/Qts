@@ -44,7 +44,7 @@ body {
     display: inline-block;
 }
 .maincolor{
-     background-color: O#000;
+     background-color: #000;
 }
 
 .blue{
@@ -54,8 +54,6 @@ body {
 .pin{
     background-color:#ff00ea;
 }
-
-
 .gre{
      background-color: #34ff01;
 }
